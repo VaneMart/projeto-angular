@@ -1,0 +1,54 @@
+{
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "vanemart01",
+            "password": "password01"
+        },
+        {
+            "id": "2",
+            "nome": "vanemart02",
+            "password": "password02"
+        },
+        {
+            "id": "3",
+            "nome": "vanemart03",
+            "password": "password03"
+        },
+        {
+            "id": "4",
+            "nome": "vanemart04",
+            "password": "password04"
+        },
+        {
+            "id": "5",
+            "nome": "vanemart05",
+            "password": "password05"
+        },
+        {
+            "id": "6",
+            "nome": "vanemart06",
+            "password": "password06"
+        },
+        {
+            "id": "7",
+            "nome": "vanemart07",
+            "password": "password07"
+        },
+        {
+            "id": "8",
+            "nome": "vanemart08",
+            "password": "password08"
+        },
+        {
+            "id": "9",
+            "nome": "vanemart09",
+            "password": "password09"
+        },
+        {
+            "id": "10",
+            "nome": "vanemart10",
+            "password": "password10"
+        }
+    ]
+}
