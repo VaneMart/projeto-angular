@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666558871236,
+  "timestamp": 1666559543644,
   "index": "/projeto-angular/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/projeto-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/projeto-angular/index.html": "24a50aabf359517441ff6d0979ba8f81de26db5a",
     "/projeto-angular/main.aba4e69e789493b9.js": "b3fc8b22b81437c33213be448ad8e659d251799f",
-    "/projeto-angular/manifest.webmanifest": "99e0d46321fec724f644f7b36711b9f0dc6e521e",
+    "/projeto-angular/manifest.webmanifest": "ae893f2db7f212c38028aba107e6aa7f5953a891",
     "/projeto-angular/polyfills.7f69f74e8ef6edf9.js": "770b6b43a93c5935ef7860edbaa5e23e947b6f1f",
     "/projeto-angular/runtime.6e558f874672c77c.js": "09ea0243818ac06bb6e25d670e0b73d938940a1c",
     "/projeto-angular/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
