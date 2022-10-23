@@ -1,6 +1,7 @@
 {
   "name": "projeto-angular",
   "short_name": "projeto-angular",
+  "description": "projeto angular com pwa",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
